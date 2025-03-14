@@ -1,0 +1,1 @@
+This is a program for day-ahead and real-time scheduling optimization of a HPSS-PV system.
